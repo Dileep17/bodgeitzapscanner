@@ -1,5 +1,5 @@
 # bodgeitzapscanner
-Objective to explore zap api using
+Exploring zap api using
 
 * [bodgeit](https://github.com/psiinon/bodgeit)
 * ruby
